@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Algorithm Path Visualizer is a React application designed to visualize various pathfinding algorithms in action. This project allows users to place start and end nodes on a grid, create walls and obstacles, and visualize how different algorithms traverse the grid to find the shortest path between two points. Check the process: 
+Algorithm Path Visualizer is a React application designed to visualize various pathfinding algorithms in action. This project allows users to place start and end nodes on a grid, create walls and obstacles, and visualize how different algorithms traverse the grid to find the shortest path between two points. Check the process: https://yadamanarendrareddy.github.io/Algorithms-PathFinder-Visualizer/
 
 ## Features
 
