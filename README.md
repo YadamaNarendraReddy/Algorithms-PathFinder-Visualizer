@@ -1,4 +1,4 @@
-# Algorithm Path Visualizer
+# Algorithm Path Finder Visualizer
 
 ## Project Overview
 
